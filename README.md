@@ -3,8 +3,8 @@
 # Hi there 👋, my name is Oluwatosin Ogunyebi (OT)
 ### Games, Extended Reality and all things in between...
 
-<div style="width: 100%; height: 100%; margin: 0;"><iframe title="Blank_ReadyPlayerMe" src="https://blankreadyplayerme.netlify.app" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen">
-</iframe></div>
+<iframe title="Blank_ReadyPlayerMe" src="https://blankreadyplayerme.netlify.app" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen">
+</iframe>
 
 I am a game developer with a knack for the extended reality spectrum. I am very passionate about community building and I strongly believe games as well as AR/VR would have a great impact in years to come.
 
