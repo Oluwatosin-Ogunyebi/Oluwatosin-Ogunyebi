@@ -1,4 +1,4 @@
-![Game, Extended Reality and all things in between..](https://github.com/Oluwatosin-Ogunyebi/Oluwatosin-Ogunyebi/blob/main/2.png)
+![Game, Extended Reality and all things in between..](https://github.com/Oluwatosin-Ogunyebi/Oluwatosin-Ogunyebi/blob/main/OT_Banner_1200400.png)
 
 # Hi there 👋, my name is Oluwatosin Ogunyebi (OT)
 ### Games, Extended Reality and all things in between...
